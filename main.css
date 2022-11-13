@@ -31,12 +31,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', end
     
     filter: grayscale(0);
 }
-h2{
+h3{
    
     text-align: center;
     transition: 0.5s;
 }
-h2:hover{
+h3:hover{
     transform: scale(1.2,1.2);
     text-shadow: 4px 0px 5px #292424; /* Цвет в HEX*/
     text-shadow: 4px 0px 5px rgba(41, 36, 36, 1); 
@@ -83,9 +83,9 @@ h2:hover{
     filter: grayscale(0);
 }
 
-h3{
+/* h3{
     padding: 20px;
-}
+} */
 .end{
     
     border-radius: 10px;
